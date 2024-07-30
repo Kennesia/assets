@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Contora';
+  src: url('contora-font.otf') format('opentype'); 
+  font-weight: 800; 
+  font-style: normal; 
+}
+
+.logo {
+  font-family: 'Contora', sans-serif; 
+  font-weight: 800;
+  font-size: 24px; 
+  color: #333; 
+}
